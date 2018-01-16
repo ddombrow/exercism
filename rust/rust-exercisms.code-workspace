@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "proverb"
+		},
+		{
+			"path": "reverse-string"
+		},
+		{
+			"path": "sum-of-multiples"
+		},
+		{
+			"path": "grains"
+		},
+		{
+			"path": "pythagorean-triplet"
+		}
+	],
+	"settings": {}
+}
