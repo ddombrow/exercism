@@ -1,1 +1,0 @@
-C:\Users\ddomb\exercism\rust\reverse-string\target\debug\reverse_string-2a727c42e51072fc.exe: C:\Users\ddomb\exercism\rust\reverse-string\src\lib.rs C:\Users\ddomb\exercism\rust\reverse-string\tests\reverse-string.rs
